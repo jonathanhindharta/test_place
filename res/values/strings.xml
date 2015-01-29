@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LocationNearby</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_settings">Settings</string>
+	<string name="str_btn_find">Find</string>
+	<string-array name="place_type">
+        <item>airport</item>
+        <item>atm</item>
+        <item>bank</item>
+        <item>bus_station</item>
+        <item>church</item>
+        <item>doctor</item>
+        <item>hospital</item>
+        <item>bni</item>
+        <item>movie_theater</item>
+        <item>mandiri</item>
+        <item>restaurant</item>
+        <item>bca</item>
+    </string-array>
+ 
+    <string-array name="place_type_name">
+        <item>Airport</item>
+        <item>ATM</item>
+        <item>Bank</item>
+        <item>Bus Station</item>
+        <item>Church</item>
+        <item>Doctor</item>
+        <item>Hospital</item>
+        <item>Bank BNI</item>
+        <item>Movie Theater</item>
+        <item>Bank Mandiri</item>
+        <item>Restaurant</item>
+        <item>Bank BCA</item>
+    </string-array>
+</resources>
